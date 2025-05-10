@@ -24,7 +24,7 @@ I've worked on:
 
 ### 🧰 Tech & Tools
 
-### 📦 Product Management Tools
+#### 📦 Product Management Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
