@@ -22,15 +22,6 @@ I've worked on:
 
 ---
 
-Got it! Here's your updated **🧰 Tech & Tools** section:
-
-* ✅ Fixed the broken icons in **Data Science & Machine Learning**
-* ✅ Removed TensorFlow
-* ✅ Cleaned up **Databases** to only show PostgreSQL and BigQuery (no icons)
-* ✅ Removed AWS and Linux icons from **Cloud Platforms & DevOps**
-
-
-
 ### 🧰 Tech & Tools
 
 ### 📦 Product Management Tools
